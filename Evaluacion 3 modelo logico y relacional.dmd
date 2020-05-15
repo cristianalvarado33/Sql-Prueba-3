@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Evaluacion 3 modelo logico y relacional" id="7B92708A-15C0-0EB3-4778-36828E725CE5" version="3.5">
+<createdBy>Jenny</createdBy>
+<createdTime>2020-05-14 00:33:30 UTC</createdTime>
+<ownerDesignName>Evaluacion 3 modelo logico y relacional</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7B92708A-15C0-0EB3-4778-36828E725CE5</designId>
+</OSDM_Design>
